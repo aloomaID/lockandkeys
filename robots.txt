@@ -1,0 +1,5 @@
+﻿User-agent: *
+Allow: /
+
+
+Sitemap: https://lockandkeys.lomolocksmith.xyz/sitemap_index.xml
